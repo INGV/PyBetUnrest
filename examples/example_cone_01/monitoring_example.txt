@@ -1,0 +1,136 @@
+[Unrest - Parameter 1]
+name = #VT/month
+value = 1050
+threshold 1 = 300
+threshold 2 = 1200
+relation = > 
+weight = 2
+
+[Unrest - Parameter 2]
+name = #LF/month
+value = 173
+threshold 1 = 450
+threshold 2 = 1500
+relation = >
+weight = 1
+
+[Unrest - Parameter 3]
+name = Lake temperature (celsius degrees)
+value = 34.8
+threshold 1 = 42
+threshold 2 = 50
+relation = >
+weight = 1
+
+[Unrest - Parameter 4]
+name = Continuous tremor amplitude/day (mm)
+value = 4.74
+threshold 1 = 5
+threshold 2 = 30
+relation = >
+weight = 3
+
+[Unrest - Parameter 5]
+name = Unusual Sulfur smell in the crater (i.e., sick miners)
+value = 0
+threshold 1 = 1
+threshold 2 = None
+relation = >
+weight = 2
+
+[Unrest - Parameter 6]
+name = Dead birds
+value = 0
+threshold 1 = 1
+threshold 2 = None
+relation = >
+weight = 2
+
+[Unrest - Parameter 7]
+name = Lake color white-grey
+value = 0
+threshold 1 = 1
+threshold 2 = None
+relation = >
+weight = 3
+
+[Magmatic - Parameter 1]
+name = #VTs/month
+value = 1050
+threshold 1 = 1200
+threshold 2 = 10000
+relation = > 
+weight = 1
+
+[Magmatic - Parameter 2]
+name = #Felt earthquakes in the region/day
+value = 3
+threshold 1 = 2
+threshold 2 = 10
+relation = >
+weight = 2
+
+[Hydrothermal - Parameter 1]
+name = #Continuous tremor amplitude/day (mm)
+value = 4.74
+threshold 1 = 5
+threshold 2 = 30
+relation = >
+weight = 3
+
+[Hydrothermal - Parameter 2]
+name = #LF/month
+value = 173
+threshold 1 = 1500
+threshold 2 = 12000
+relation = >
+weight = 2
+
+[Hydrothermal - Parameter 3]
+name = #Lake temperature (celsius degrees)
+value = 34.8
+threshold 1 = 45
+threshold 2 = 65
+relation = >
+weight = 1
+
+[Hydrothermal - Parameter 4]
+name = #Lake color white-grey
+value = 0
+threshold 1 = 1
+threshold 2 = None
+relation = >
+weight = 4
+
+[Hydrothermal - Parameter 5]
+name = # Miners have headache, vomit
+value = 0
+threshold 1 = 1
+threshold 2 = None
+relation = >
+weight = 3
+
+[Hydrothermal Eruption - Parameter 1]
+name = # Continuous tremor amplitude/day (mm)
+value = 4.74
+threshold 1 = 30
+threshold 2 = saturated
+relation = >
+weight = 3
+
+[Hydrothermal Eruption - Parameter 2]
+name = #LF/month
+value = 173
+threshold 1 = 1500
+threshold 2 = 12000
+relation = >
+weight = 1
+
+[Hydrothermal Eruption - Parameter 3]
+name = #Lake color white-grey
+value = 0
+threshold 1 = 1
+threshold 2 = None
+relation = >
+weight = 4
+
