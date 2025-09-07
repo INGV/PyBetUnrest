@@ -4,7 +4,8 @@ PyBetUnrest is an open and cross-platform implementation of BET_UNREST model. BE
 
 More details on PyBetUnrest tool can be found in [Tonini et al. (2016)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GC006327), where the use of the tool is illustrated through an application to available knowledge and datasets of the Kawah Ijen stratovolcano, Indonesia. In particular, the tool is set on the basis of monitoring data for the learning period 2000–2010, and is then blindly applied to the test period 2010–2012, during which significant unrest phases occurred. 
 
-An on-line running (stable but currently not in development) version of PyBetUnrest is hosted on the [VHub platform](https://vhub.org/resources/betunrest) 
+An on-line running (stable but currently not in development) version of PyBetUnrest is hosted on [the formerly Vhub cyberinfrastructure platform](https://theghub.org/resources/betunrest) together with a general [user guide](https://theghub.org/wiki/PyBetToolsUserGuide) for all PyBet tools.
+
 
 ## Requirements
 This version of PyBetUnrest requires Python 3 and the following Python modules/libraries:
