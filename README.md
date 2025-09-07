@@ -17,9 +17,9 @@ This version of PyBetUnrest requires Python 3 and the following Python modules/l
 ## Installation
 Download this repository by clicking the button placed on the top-right of this page, under the project title (the one with the small cloud icon with a downward arrow) and unzip the archive wherever you prefer in your local computer (referred as `/path_to_pybetunrest/` from hereafter).
 
-Alternatively, you can make a clone of the project (at the moment this is possible for INGV GitLab registered users only):
+Alternatively, you can make a clone of the project:
 ```
-git clone git@gitlab.rm.ingv.it:roberto.tonini/pybetunrest.git
+git clone git@github.com:INGV/PyBetUnrest.git
 ```
 
 Now, in order to run the tool, you need a Python interpreter (3.x version) and the packages listed above (compatible with your Python interpreter version).
