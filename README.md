@@ -1,3 +1,5 @@
+[![Static Badge](https://img.shields.io/badge/license-cc_by_4.0-blue)](https://github.com/INGV/PyBetUnrest/blob/main/LICENSE.md)
+
 # PyBetUnrest
 
 PyBetUnrest is an open and cross-platform implementation of BET_UNREST model. BET_UNREST is an extension of BET_EF including non-magmatic volcanic unrest and its relating hazardous phenomena, by adding a specific branch to the event tree ([Rouwet et al., 2014](https://appliedvolc.biomedcentral.com/articles/10.1186/s13617-014-0017-3)). It has been designed and developed as one of the final products of the EU VUELCO project and tested during the last volcanic crisis simulation organized in Dominica (West Indies) in the frame of VUELCO ([Sandri et al., 2017](https://link.springer.com/chapter/10.1007/11157_2017_9)).
