@@ -80,8 +80,9 @@ or
  - `source deactivate`
 or close the shell and open another one.
   
-Once you have the pybet environment activated, you can run the tool:
+Once you have the pybet environment activated, you can run the tool by typing:
 ```
 (pybet) prompt: python /path_to_pybetunrest/src/betunrest.py
 ```
+
 
