@@ -6,6 +6,9 @@ More details on PyBetUnrest tool can be found in [Tonini et al. (2016)](https://
 
 An on-line running (stable but currently not in development) version of PyBetUnrest is hosted on [the formerly Vhub cyberinfrastructure platform](https://theghub.org/resources/betunrest) together with a general [user guide](https://theghub.org/wiki/PyBetToolsUserGuide) for all PyBet tools.
 
+**References:**
+ - *Tonini, R., L. Sandri, D. Rouwet, C. Caudron, W. Marzocchi, and Suparjan (2016), A new Bayesian Event Tree tool to track and quantify volcanic unrest and its application to Kawah Ijen volcano, Geochem. Geophys. Geosyst., 17, 2539–2555, [doi:10.1002/2016GC006327](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GC006327).*
+
 
 ## Requirements
 This version of PyBetUnrest requires Python 3 and the following Python modules/libraries:
