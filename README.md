@@ -1,4 +1,5 @@
 [![Static Badge](https://img.shields.io/badge/license-cc_by_4.0-blue)](https://github.com/INGV/PyBetUnrest/blob/main/LICENSE.md)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18222968.svg)](https://doi.org/10.5281/zenodo.18222968)
 
 # PyBetUnrest
 
